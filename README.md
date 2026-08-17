@@ -60,7 +60,9 @@
 </p>
 
 ## A4 – RBAC
-**Screenshot:** IAM – Martina = Reader, grp-it-admin = Contributor
+<p align="center">
+  <img src="https://github.com/samanehsalahi2-hub/ABSCHLUSSPROJEKT-Microsoft-Azure-/blob/main/Abschlussprojekt-A4.png" width="800"/>
+</p>
 
 ---
 
